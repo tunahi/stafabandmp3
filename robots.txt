@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://stafabandmp3.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://stafabandmp3.herokuapp.com/sitemap.xml
